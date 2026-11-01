@@ -1,0 +1,4 @@
+boto3>=1.40.0,<2
+streamlit>=1.40,<2
+jsonschema>=4.23,<5
+aws-opentelemetry-distro>=0.17.1,<0.18

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.env
+aws-config
+*.pptx
+.streamlit/secrets.toml

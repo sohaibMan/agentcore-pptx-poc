@@ -1,0 +1,19 @@
+Generate an 8-slide PowerPoint titled "Orion Field Station: A Data-Grounded Operations Brief".
+
+Audience: Orion Field Station operations team. Language: English. Tone: concise, factual, and useful for an operations briefing. The 8 slides include the cover.
+
+Use the connected knowledge base as the source of truth. Build the presentation from retrieved material about the fictional Orion Field Station. Do not fill gaps with outside assumptions. If the knowledge base does not return relevant passages, say that the source material could not be retrieved and avoid presenting unverified details as facts.
+
+Tell a clear operational story:
+1. Cover: establish that this is a source-grounded briefing on Orion Field Station.
+2. Station at a glance: identify the station, its project name, director, team size, and program start date.
+3. Greenhouse 7: explain its area, the three crops, and the night/day temperature limits.
+4. Silverleaf harvest: report the first harvest quantity and date.
+5. Backup power: explain Kestrel's stored energy and how long it supports the radio room.
+6. Daily and inbound operations: state the radio room check time and the MV Tern's arrival interval.
+7. Decisions and upcoming dates: explain why amber barley was chosen, when the winter survey ends, and when the next safety drill occurs.
+8. Operational actions: state who to contact for a greenhouse temperature alert and summarize the approved 2026 field-study budget.
+
+For every content slide, provide a distinct takeaway title, 2–4 concise fact cards, and speaker notes that cite the retrieved source ID and location for the claims on that slide. Include useful qualifications where appropriate. Do not invent extra dates, names, risks, policies, or operational recommendations. Keep the facts exact, including units and local time. If a required fact is absent from retrieved context, omit it and note the gap in the speaker notes.
+
+Generate the downloadable .pptx now using the PowerPoint tool and AgentCore Code Interpreter. Do not return only an outline.
